@@ -1,6 +1,6 @@
 # This is a test program used in the Combitech git course
 
-# The very useful function
+# The very useful new function
 void my_func() {}
 
 # This is the main function
