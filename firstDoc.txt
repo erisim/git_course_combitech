@@ -1,5 +1,10 @@
 This is the first file
 Now with a second row
 tord_sjögegård
+tord_sjögegård
 hej
 master
+now with third row
+add next line
+
+ master
