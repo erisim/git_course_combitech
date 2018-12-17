@@ -9,4 +9,7 @@ master
 now with third row
 add next line
 
- master2
+
+master2
+extra cool, ny häftig rad
+
